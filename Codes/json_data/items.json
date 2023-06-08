@@ -1,0 +1,3474 @@
+[
+ {
+  "name": "Hanina Spritz",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "arak",
+  "subtype3": "mixology",
+  "price": 40
+ },
+ {
+  "name": "Arak Elite",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "arak",
+  "subtype3": "glass",
+  "price": 22
+ },
+ {
+  "name": "Arak Elite Bottle",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "arak",
+  "subtype3": "glass",
+  "price": 300
+ },
+ {
+  "name": "Ch. Arak Elite",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "arak",
+  "subtype3": "chaser",
+  "price": 10
+ },
+ {
+  "name": "Cigar Pastroma 4P",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "beef",
+  "subtype3": "warm",
+  "price": 51
+ },
+ {
+  "name": "Kids Burger",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "beef",
+  "subtype3": "children",
+  "price": 52
+ },
+ {
+  "name": "Hamburger",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "beef",
+  "subtype3": "warm",
+  "price": 46
+ },
+ {
+  "name": "Hanger Steak",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "beef",
+  "subtype3": "warm",
+  "price": 94
+ },
+ {
+  "name": "Malfouf",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "beef",
+  "subtype3": "warm",
+  "price": 69
+ },
+ {
+  "name": "New York Steak",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "beef",
+  "subtype3": "warm",
+  "price": 240
+ },
+ {
+  "name": "Onza Burger",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "beef",
+  "subtype3": "warm",
+  "price": 43
+ },
+ {
+  "name": "Ox Tail Pide",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "beef",
+  "subtype3": "warm",
+  "price": 75
+ },
+ {
+  "name": "Pide Shawarma",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "beef",
+  "subtype3": "warm",
+  "price": 71
+ },
+ {
+  "name": "Sirloin Steak",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "beef",
+  "subtype3": "warm",
+  "price": 136
+ },
+ {
+  "name": "Cigar Pastroma",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "beef",
+  "subtype3": "warm",
+  "price": 39
+ },
+ {
+  "name": "Kubba Nia",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "beef",
+  "subtype3": "cold",
+  "price": 52
+ },
+ {
+  "name": "Pastroma",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "beef",
+  "subtype3": "cold",
+  "price": 41
+ },
+ {
+  "name": "Pastroma Akmak",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "beef",
+  "subtype3": "warm",
+  "price": 46
+ },
+ {
+  "name": "Round Steak Tartar",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "beef",
+  "subtype3": "cold",
+  "price": 59
+ },
+ {
+  "name": "Tulum Pastroma",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "beef",
+  "subtype3": "cold",
+  "price": 38
+ },
+ {
+  "name": "Interior Parts Pide",
+  "type": "food",
+  "subtype1": "tabun",
+  "subtype2": "beef",
+  "subtype3": "warm",
+  "price": 74
+ },
+ {
+  "name": "Corona",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "bottle",
+  "price": 28
+ },
+ {
+  "name": "Crabbies Ginger Beer",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "bottle",
+  "price": 26
+ },
+ {
+  "name": "Greek Deal",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "bottle",
+  "price": 140
+ },
+ {
+  "name": "Hoegaarden",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "bottle",
+  "price": 28
+ },
+ {
+  "name": "Ipa Brewdog Punk",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "bottle",
+  "price": 34
+ },
+ {
+  "name": "Malka Blond Ale",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "bottle",
+  "price": 34
+ },
+ {
+  "name": "Malka Pale Ale",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "bottle",
+  "price": 34
+ },
+ {
+  "name": "Mythos 2 Bottles",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "deal",
+  "price": 45
+ },
+ {
+  "name": "Mythos 3 Bottles",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "deal",
+  "price": 65
+ },
+ {
+  "name": "Mythos 4 Bottles",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "deal",
+  "price": 68
+ },
+ {
+  "name": "Mythos Bottle",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "bottle",
+  "price": 24
+ },
+ {
+  "name": "Mythos Draft Ta",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "draft",
+  "price": 25
+ },
+ {
+  "name": "Negev Oasis",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "bottle",
+  "price": 35
+ },
+ {
+  "name": "Shandy",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "bottle",
+  "price": 32
+ },
+ {
+  "name": "St-Feuillien Grand Cru",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "bottle",
+  "price": 34
+ },
+ {
+  "name": "Stella Artois",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "bottle",
+  "price": 27
+ },
+ {
+  "name": "Tuborg",
+  "type": "beverage",
+  "subtype1": "beer",
+  "subtype2": "beer",
+  "subtype3": "bottle",
+  "price": 24
+ },
+ {
+  "name": "Aperol",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "bitter",
+  "subtype3": "glass",
+  "price": 24
+ },
+ {
+  "name": "Campari",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "bitter",
+  "subtype3": "glass",
+  "price": 22
+ },
+ {
+  "name": "Ch. Aperol",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "bitter",
+  "subtype3": "chaser",
+  "price": 18
+ },
+ {
+  "name": "Ch. Campari",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "bitter",
+  "subtype3": "chaser",
+  "price": 10
+ },
+ {
+  "name": "Ch. Gentleman Jack",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "chaser",
+  "price": 14
+ },
+ {
+  "name": "Ch. Jack Daniels",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "chaser",
+  "price": 16
+ },
+ {
+  "name": "Ch. Woodford Reserve",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "chaser",
+  "price": 16
+ },
+ {
+  "name": "Gentleman Jack",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 39
+ },
+ {
+  "name": "Jack Daniels",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 31
+ },
+ {
+  "name": "Jack Daniels 375 ml",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "small_bottle",
+  "price": 250
+ },
+ {
+  "name": "Woodford Reserve",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 55
+ },
+ {
+  "name": "Boukha Bokobsa",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "boukha",
+  "subtype3": "glass",
+  "price": 36
+ },
+ {
+  "name": "Ankra Hotel",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "brandy",
+  "subtype3": "mixology",
+  "price": 49
+ },
+ {
+  "name": "Ch. Courvoisier Vs",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "brandy",
+  "subtype3": "chaser",
+  "price": 27
+ },
+ {
+  "name": "Ch. Courvoisier Vsop",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "brandy",
+  "subtype3": "chaser",
+  "price": 24
+ },
+ {
+  "name": "Ch. Hennessy Vs",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "brandy",
+  "subtype3": "chaser",
+  "price": 20
+ },
+ {
+  "name": "Ch. Hennessy Vsop",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "brandy",
+  "subtype3": "chaser",
+  "price": 35
+ },
+ {
+  "name": "Courvoisier Vs",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "brandy",
+  "subtype3": "glass",
+  "price": 45
+ },
+ {
+  "name": "Courvoisier Vsop",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "brandy",
+  "subtype3": "glass",
+  "price": 62
+ },
+ {
+  "name": "Hennessy Vs",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "brandy",
+  "subtype3": "glass",
+  "price": 62
+ },
+ {
+  "name": "Hennessy Vsop",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "brandy",
+  "subtype3": "glass",
+  "price": 68
+ },
+ {
+  "name": "Doner Tabuk",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "chicken",
+  "subtype3": "warm",
+  "price": 69
+ },
+ {
+  "name": "Sfiha",
+  "type": "food",
+  "subtype1": "tabun",
+  "subtype2": "chicken",
+  "subtype3": "warm",
+  "price": 72
+ },
+ {
+  "name": "Americano",
+  "type": "beverage",
+  "subtype1": "hot_drink",
+  "subtype2": "coffee",
+  "subtype3": "coffee",
+  "price": 11
+ },
+ {
+  "name": "Black Coffee",
+  "type": "beverage",
+  "subtype1": "hot_drink",
+  "subtype2": "coffee",
+  "subtype3": "coffee",
+  "price": 7
+ },
+ {
+  "name": "Cappuccino",
+  "type": "beverage",
+  "subtype1": "hot_drink",
+  "subtype2": "coffee",
+  "subtype3": "coffee",
+  "price": 7
+ },
+ {
+  "name": "Cold Americano",
+  "type": "beverage",
+  "subtype1": "hot_drink",
+  "subtype2": "coffee",
+  "subtype3": "coffee",
+  "price": 12
+ },
+ {
+  "name": "Cold Coffee",
+  "type": "beverage",
+  "subtype1": "hot_drink",
+  "subtype2": "coffee",
+  "subtype3": "coffee",
+  "price": 12
+ },
+ {
+  "name": "Double Espresso",
+  "type": "beverage",
+  "subtype1": "hot_drink",
+  "subtype2": "coffee",
+  "subtype3": "coffee",
+  "price": 8
+ },
+ {
+  "name": "Double Macchiato",
+  "type": "beverage",
+  "subtype1": "hot_drink",
+  "subtype2": "coffee",
+  "subtype3": "coffee",
+  "price": 12
+ },
+ {
+  "name": "Espresso",
+  "type": "beverage",
+  "subtype1": "hot_drink",
+  "subtype2": "coffee",
+  "subtype3": "coffee",
+  "price": 10
+ },
+ {
+  "name": "Macchiato",
+  "type": "beverage",
+  "subtype1": "hot_drink",
+  "subtype2": "coffee",
+  "subtype3": "coffee",
+  "price": 10
+ },
+ {
+  "name": "Feta",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "dairy",
+  "subtype3": "cold",
+  "price": 25
+ },
+ {
+  "name": "Hot Eggplant",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 27
+ },
+ {
+  "name": "Muska",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 41
+ },
+ {
+  "name": "Sue Boric",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 33
+ },
+ {
+  "name": "Tziki",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "dairy",
+  "subtype3": "cold",
+  "price": 21
+ },
+ {
+  "name": "Brownies",
+  "type": "food",
+  "subtype1": "dessert",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 38
+ },
+ {
+  "name": "Coconut Malbi",
+  "type": "food",
+  "subtype1": "dessert",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 31
+ },
+ {
+  "name": "Figs Gozlema",
+  "type": "food",
+  "subtype1": "dessert",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 40
+ },
+ {
+  "name": "Gozlema",
+  "type": "food",
+  "subtype1": "dessert",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 42
+ },
+ {
+  "name": "Knaffeh",
+  "type": "food",
+  "subtype1": "dessert",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 40
+ },
+ {
+  "name": "Lemon Brulee",
+  "type": "food",
+  "subtype1": "dessert",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 38
+ },
+ {
+  "name": "Mini Malbi",
+  "type": "food",
+  "subtype1": "dessert",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 0
+ },
+ {
+  "name": "Panna Cotta",
+  "type": "food",
+  "subtype1": "dessert",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 37
+ },
+ {
+  "name": "Sutlach",
+  "type": "food",
+  "subtype1": "dessert",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 33
+ },
+ {
+  "name": "Turkish Delight",
+  "type": "food",
+  "subtype1": "dessert",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 1
+ },
+ {
+  "name": "Kids Pasta",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "dairy",
+  "subtype3": "children",
+  "price": 36
+ },
+ {
+  "name": "Kids Pizza",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "dairy",
+  "subtype3": "children",
+  "price": 41
+ },
+ {
+  "name": "Kids Polenta",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "dairy",
+  "subtype3": "children",
+  "price": 25
+ },
+ {
+  "name": "Irngi And Corn",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 67
+ },
+ {
+  "name": "Edna'S Salad",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "dairy",
+  "subtype3": "cold",
+  "price": 46
+ },
+ {
+  "name": "Su Burek",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 30
+ },
+ {
+  "name": "Feta & Spinach Manakish",
+  "type": "food",
+  "subtype1": "tabun",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 63
+ },
+ {
+  "name": "Pide Roka",
+  "type": "food",
+  "subtype1": "tabun",
+  "subtype2": "dairy",
+  "subtype3": "warm",
+  "price": 54
+ },
+ {
+  "name": "Amaro Montenegro",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "digestif",
+  "subtype3": "glass",
+  "price": 41
+ },
+ {
+  "name": "Benedictine",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "digestif",
+  "subtype3": "glass",
+  "price": 48
+ },
+ {
+  "name": "Ch. Amaro Montenegro",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "digestif",
+  "subtype3": "chaser",
+  "price": 22
+ },
+ {
+  "name": "Ch. Benedictine",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "digestif",
+  "subtype3": "chaser",
+  "price": 21
+ },
+ {
+  "name": "Ch. Chartreuse Green",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "digestif",
+  "subtype3": "chaser",
+  "price": 20
+ },
+ {
+  "name": "Ch. Fernet Branca",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "digestif",
+  "subtype3": "chaser",
+  "price": 14
+ },
+ {
+  "name": "Ch. Limoncello",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "digestif",
+  "subtype3": "chaser",
+  "price": 19
+ },
+ {
+  "name": "Chartreuse Green",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "digestif",
+  "subtype3": "glass",
+  "price": 50
+ },
+ {
+  "name": "Fernet Branca",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "digestif",
+  "subtype3": "glass",
+  "price": 33
+ },
+ {
+  "name": "Grappa",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "digestif",
+  "subtype3": "glass",
+  "price": 32
+ },
+ {
+  "name": "Limoncello",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "digestif",
+  "subtype3": "glass",
+  "price": 30
+ },
+ {
+  "name": "Drumfish Fillet",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "fish",
+  "subtype3": "warm",
+  "price": 116
+ },
+ {
+  "name": "Seabass Herbs",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "fish",
+  "subtype3": "warm",
+  "price": 106
+ },
+ {
+  "name": "Seabass Sambusak",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "fish",
+  "subtype3": "warm",
+  "price": 112
+ },
+ {
+  "name": "E. Grapefruit Juice",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "fresh",
+  "subtype3": "extra",
+  "price": 8
+ },
+ {
+  "name": "E. Lemonade",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "fresh",
+  "subtype3": "extra",
+  "price": 8
+ },
+ {
+  "name": "E. Orange Juice",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "fresh",
+  "subtype3": "extra",
+  "price": 8
+ },
+ {
+  "name": "Grapefruit Juice",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "fresh",
+  "subtype3": "soft_drink",
+  "price": 14
+ },
+ {
+  "name": "Lemonade",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "fresh",
+  "subtype3": "soft_drink",
+  "price": 13
+ },
+ {
+  "name": "Orange Juice",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "fresh",
+  "subtype3": "soft_drink",
+  "price": 12
+ },
+ {
+  "name": "Bottle Opening Fee - Wine",
+  "type": "beverage",
+  "subtype1": "general_item",
+  "subtype2": "general_item",
+  "subtype3": "general_item",
+  "price": 45
+ },
+ {
+  "name": "Oth Chaser",
+  "type": "beverage",
+  "subtype1": "general_item",
+  "subtype2": "general_item",
+  "subtype3": "oth_chaser",
+  "price": 0
+ },
+ {
+  "name": "Boulevardier",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "gin",
+  "subtype3": "classic",
+  "price": 50
+ },
+ {
+  "name": "Dry Martini",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "gin",
+  "subtype3": "classic",
+  "price": 47
+ },
+ {
+  "name": "Gin Mule",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "gin",
+  "subtype3": "classic",
+  "price": 48
+ },
+ {
+  "name": "The Last Word",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "gin",
+  "subtype3": "classic",
+  "price": 46
+ },
+ {
+  "name": "Brumble Club",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "gin",
+  "subtype3": "mixology",
+  "price": 44
+ },
+ {
+  "name": "Gin And Tonic From The Market",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "gin",
+  "subtype3": "mixology",
+  "price": 45
+ },
+ {
+  "name": "Gonder Spritz",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "gin",
+  "subtype3": "mixology",
+  "price": 27
+ },
+ {
+  "name": "Marmaris",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "gin",
+  "subtype3": "mixology",
+  "price": 46
+ },
+ {
+  "name": "Negroni Sabagliato",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "gin",
+  "subtype3": "mixology",
+  "price": 42
+ },
+ {
+  "name": "Onza Special",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "gin",
+  "subtype3": "mixology",
+  "price": 35
+ },
+ {
+  "name": "Sultana",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "gin",
+  "subtype3": "mixology",
+  "price": 47
+ },
+ {
+  "name": "Tonic Martini",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "gin",
+  "subtype3": "mixology",
+  "price": 38
+ },
+ {
+  "name": "Tropical Gin",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "gin",
+  "subtype3": "mixology",
+  "price": 48
+ },
+ {
+  "name": "Bombay Bramble",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "gin",
+  "subtype3": "glass",
+  "price": 48
+ },
+ {
+  "name": "Bombay Sapphire",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "gin",
+  "subtype3": "glass",
+  "price": 42
+ },
+ {
+  "name": "Bombay Sapphire Bottle",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "gin",
+  "subtype3": "bottle",
+  "price": 347
+ },
+ {
+  "name": "Ch. Bombay Sapphire",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "gin",
+  "subtype3": "chaser",
+  "price": 10
+ },
+ {
+  "name": "Ch. Hendricks",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "gin",
+  "subtype3": "chaser",
+  "price": 25
+ },
+ {
+  "name": "Ch. Mare",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "gin",
+  "subtype3": "chaser",
+  "price": 29
+ },
+ {
+  "name": "Hendricks",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "gin",
+  "subtype3": "glass",
+  "price": 32
+ },
+ {
+  "name": "Mare",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "gin",
+  "subtype3": "glass",
+  "price": 34
+ },
+ {
+  "name": "Doner Shawarma",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "lamb",
+  "subtype3": "warm",
+  "price": 72
+ },
+ {
+  "name": "Lamb Kabab",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "lamb",
+  "subtype3": "warm",
+  "price": 72
+ },
+ {
+  "name": "Lachma Ba'Ajeen",
+  "type": "food",
+  "subtype1": "tabun",
+  "subtype2": "lamb",
+  "subtype3": "warm",
+  "price": 72
+ },
+ {
+  "name": "Amaretto Disaronno",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "liquer",
+  "subtype3": "glass",
+  "price": 23
+ },
+ {
+  "name": "Baileys",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "liquer",
+  "subtype3": "glass",
+  "price": 27
+ },
+ {
+  "name": "Ch. Amaretto Disaronno",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "liquer",
+  "subtype3": "chaser",
+  "price": 17
+ },
+ {
+  "name": "Ch. Baileys",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "liquer",
+  "subtype3": "chaser",
+  "price": 17
+ },
+ {
+  "name": "Ch. Drambuie",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "liquer",
+  "subtype3": "chaser",
+  "price": 24
+ },
+ {
+  "name": "Ch. Figgie",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "liquer",
+  "subtype3": "chaser",
+  "price": 10
+ },
+ {
+  "name": "Cointreau",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "liquer",
+  "subtype3": "glass",
+  "price": 46
+ },
+ {
+  "name": "Drambuie",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "liquer",
+  "subtype3": "glass",
+  "price": 46
+ },
+ {
+  "name": "Figgie",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "liquer",
+  "subtype3": "glass",
+  "price": 29
+ },
+ {
+  "name": "Midori",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "liquer",
+  "subtype3": "glass",
+  "price": 29
+ },
+ {
+  "name": "Southern Comfort",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "liquer",
+  "subtype3": "glass",
+  "price": 32
+ },
+ {
+  "name": "Ata-Turk",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "ouzo",
+  "subtype3": "mixology",
+  "price": 48
+ },
+ {
+  "name": "Balkanika",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "ouzo",
+  "subtype3": "mixology",
+  "price": 50
+ },
+ {
+  "name": "Baraka Garden",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "ouzo",
+  "subtype3": "mixology",
+  "price": 51
+ },
+ {
+  "name": "Small Turkish",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "ouzo",
+  "subtype3": "mixology",
+  "price": 41
+ },
+ {
+  "name": "Ch. Ouzo Plumari",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "ouzo",
+  "subtype3": "chaser",
+  "price": 19
+ },
+ {
+  "name": "Ch. Ouzo Tsantali",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "ouzo",
+  "subtype3": "chaser",
+  "price": 10
+ },
+ {
+  "name": "Ouzo Barbayanni Blue",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "ouzo",
+  "subtype3": "glass",
+  "price": 39
+ },
+ {
+  "name": "Ouzo Barbayanni Green",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "ouzo",
+  "subtype3": "glass",
+  "price": 39
+ },
+ {
+  "name": "Ouzo Plumari",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "ouzo",
+  "subtype3": "glass",
+  "price": 31
+ },
+ {
+  "name": "Ouzo Tsantali",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "ouzo",
+  "subtype3": "glass",
+  "price": 30
+ },
+ {
+  "name": "Ouzo Tsantali Bottle",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "ouzo",
+  "subtype3": "bottle",
+  "price": 160
+ },
+ {
+  "name": "Plumari Bottle",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "ouzo",
+  "subtype3": "bottle",
+  "price": 380
+ },
+ {
+  "name": "Pernod",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "pernod",
+  "subtype3": "glass",
+  "price": 34
+ },
+ {
+  "name": "yom_cipur",
+  "type": "placeholders",
+  "subtype1": "placeholders",
+  "subtype2": "placeholders",
+  "subtype3": "placeholders",
+  "price": 0
+ },
+ {
+  "name": "rosh_hashana_eve",
+  "type": "placeholders",
+  "subtype1": "placeholders",
+  "subtype2": "placeholders",
+  "subtype3": "placeholders",
+  "price": 0
+ },
+ {
+  "name": "Ch. Yini Raki",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "raki",
+  "subtype3": "chaser",
+  "price": 19
+ },
+ {
+  "name": "Raki Bottle",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "raki",
+  "subtype3": "bottle",
+  "price": 0
+ },
+ {
+  "name": "Yini Raki",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "raki",
+  "subtype3": "glass",
+  "price": 37
+ },
+ {
+  "name": "Yini Raki Bottle",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "raki",
+  "subtype3": "bottle",
+  "price": 380
+ },
+ {
+  "name": "2T Yarden",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 193
+ },
+ {
+  "name": "Amaro Negro",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 134
+ },
+ {
+  "name": "Barbaresco Prunotto",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 296
+ },
+ {
+  "name": "Barbera D'Asti",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 166
+ },
+ {
+  "name": "Black Tulip",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 300
+ },
+ {
+  "name": "Cabarnet Frank Vitkin",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 209
+ },
+ {
+  "name": "Cabarnet Sauvignon Adama Tabor",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 138
+ },
+ {
+  "name": "Cabarnet Sauvignon Colombia",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 146
+ },
+ {
+  "name": "Carignan Izrael",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 180
+ },
+ {
+  "name": "Cotes Du Rhone Brusset",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 151
+ },
+ {
+  "name": "Malbec Yarden",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 250
+ },
+ {
+  "name": "Petite Sirah Vitkin",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 250
+ },
+ {
+  "name": "Pinot Noir Cavit",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 117
+ },
+ {
+  "name": "Pinot Noir Vitkin",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 230
+ },
+ {
+  "name": "Pinot Noir Yarden",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 190
+ },
+ {
+  "name": "Pizarras De Otreo",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 124
+ },
+ {
+  "name": "Primitivo Salento",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 120
+ },
+ {
+  "name": "Red Jasmine Recanati",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 100
+ },
+ {
+  "name": "Rioja Crianza",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 165
+ },
+ {
+  "name": "Shiraz Yarden",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 200
+ },
+ {
+  "name": "Zenato Valpolicella Ripassa",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 132
+ },
+ {
+  "name": "Zweigelt",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 90
+ },
+ {
+  "name": "G. Amaro Negro",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 33
+ },
+ {
+  "name": "G. Black Tie",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 43
+ },
+ {
+  "name": "G. Cabarnet Frank Vitkin",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 52
+ },
+ {
+  "name": "G. Cabarnet Sauvignon Adama Tabor",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 59
+ },
+ {
+  "name": "G. Carignan Izrael",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 46
+ },
+ {
+  "name": "G. Cotes Du Rhone Brusset",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 39
+ },
+ {
+  "name": "G. Pinot Grigio",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 44
+ },
+ {
+  "name": "G. Pizarras De Otreo",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 32
+ },
+ {
+  "name": "G. Port",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 30
+ },
+ {
+  "name": "G. Primitivo Salento",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 25
+ },
+ {
+  "name": "G. Red Jasmine Recanati",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 25
+ },
+ {
+  "name": "G. Rioja Crianza",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 39
+ },
+ {
+  "name": "G. Shiraz Yarden",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 52
+ },
+ {
+  "name": "G. Zenato Valpolicella Ripassa",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 31
+ },
+ {
+  "name": "G. Zweigelt",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 28
+ },
+ {
+  "name": "G. Shiraz Cabarnet Rawson's Retreat",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "glass",
+  "price": 156
+ },
+ {
+  "name": "Shiraz Cabarnet Rawson\u2019s Retreat",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "red",
+  "subtype3": "bottle",
+  "price": 42
+ },
+ {
+  "name": "Gris De Marselan Recanati",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "rose",
+  "subtype3": "bottle",
+  "price": 179
+ },
+ {
+  "name": "Minuty M",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "rose",
+  "subtype3": "bottle",
+  "price": 190
+ },
+ {
+  "name": "Rose Adama Tabor",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "rose",
+  "subtype3": "bottle",
+  "price": 138
+ },
+ {
+  "name": "G. Gris De Marselan Recanati",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "rose",
+  "subtype3": "glass",
+  "price": 31
+ },
+ {
+  "name": "Rose Rioja",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "rose",
+  "subtype3": "bottle",
+  "price": 126
+ },
+ {
+  "name": "G. Rose Adama Tabor",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "rose",
+  "subtype3": "glass",
+  "price": 36
+ },
+ {
+  "name": "G. Rose Rioja",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "rose",
+  "subtype3": "glass",
+  "price": 34
+ },
+ {
+  "name": "Daquiri",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "rum",
+  "subtype3": "classic",
+  "price": 44
+ },
+ {
+  "name": "Made In Cuba",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "rum",
+  "subtype3": "classic",
+  "price": 46
+ },
+ {
+  "name": "Mojito",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "rum",
+  "subtype3": "classic",
+  "price": 43
+ },
+ {
+  "name": "Negroni",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "rum",
+  "subtype3": "classic",
+  "price": 46
+ },
+ {
+  "name": "Old Cuban",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "rum",
+  "subtype3": "classic",
+  "price": 46
+ },
+ {
+  "name": "Pina Colada",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "rum",
+  "subtype3": "classic",
+  "price": 46
+ },
+ {
+  "name": "Barbados Negroni",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "rum",
+  "subtype3": "mixology",
+  "price": 52
+ },
+ {
+  "name": "Bacardi Black",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "rum",
+  "subtype3": "glass",
+  "price": 23
+ },
+ {
+  "name": "Bacardi Spiced",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "rum",
+  "subtype3": "glass",
+  "price": 38
+ },
+ {
+  "name": "Black Seal",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "rum",
+  "subtype3": "glass",
+  "price": 38
+ },
+ {
+  "name": "Ch. Bacardi 8",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "rum",
+  "subtype3": "chaser",
+  "price": 24
+ },
+ {
+  "name": "Ch. Bacardi Spiced",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "rum",
+  "subtype3": "chaser",
+  "price": 21
+ },
+ {
+  "name": "Ch. Plantation 3 Stars",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "rum",
+  "subtype3": "chaser",
+  "price": 22
+ },
+ {
+  "name": "Plantation 3 Stars",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "rum",
+  "subtype3": "glass",
+  "price": 34
+ },
+ {
+  "name": "Ikra",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "sea",
+  "subtype3": "cold",
+  "price": 26
+ },
+ {
+  "name": "Balik Cufta 4 Pcs",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "sea",
+  "subtype3": "warm",
+  "price": 74
+ },
+ {
+  "name": "Fillet Mullet",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "sea",
+  "subtype3": "warm",
+  "price": 98
+ },
+ {
+  "name": "Fish & Fries",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "sea",
+  "subtype3": "warm",
+  "price": 66
+ },
+ {
+  "name": "Fish Shawarma",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "sea",
+  "subtype3": "warm",
+  "price": 65
+ },
+ {
+  "name": "Seafood Hanina",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "sea",
+  "subtype3": "warm",
+  "price": 88
+ },
+ {
+  "name": "Whole Seabass",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "sea",
+  "subtype3": "warm",
+  "price": 124
+ },
+ {
+  "name": "Sea Food Risotto",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "sea",
+  "subtype3": "warm",
+  "price": 82
+ },
+ {
+  "name": "Balik Cufta",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "sea",
+  "subtype3": "warm",
+  "price": 56
+ },
+ {
+  "name": "Barbonia",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "sea",
+  "subtype3": "warm",
+  "price": 66
+ },
+ {
+  "name": "Coquille Saint-Jacques",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "sea",
+  "subtype3": "cold",
+  "price": 75
+ },
+ {
+  "name": "Fish Tartar",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "sea",
+  "subtype3": "cold",
+  "price": 66
+ },
+ {
+  "name": "Fricassee Drumfish",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "sea",
+  "subtype3": "warm",
+  "price": 38
+ },
+ {
+  "name": "Mussels In Ouzo",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "sea",
+  "subtype3": "warm",
+  "price": 68
+ },
+ {
+  "name": "Octopus",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "sea",
+  "subtype3": "warm",
+  "price": 68
+ },
+ {
+  "name": "Sashimi",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "sea",
+  "subtype3": "cold",
+  "price": 57
+ },
+ {
+  "name": "Seared Calamari",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "sea",
+  "subtype3": "warm",
+  "price": 45
+ },
+ {
+  "name": "Tabula Tartar",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "sea",
+  "subtype3": "cold",
+  "price": 58
+ },
+ {
+  "name": "Apple Juice",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "soft_drink",
+  "price": 14
+ },
+ {
+  "name": "Coca-Cola",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "soft_drink",
+  "price": 12
+ },
+ {
+  "name": "Coca-Cola Diet",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "soft_drink",
+  "price": 14
+ },
+ {
+  "name": "Coca-Cola Zero",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "soft_drink",
+  "price": 13
+ },
+ {
+  "name": "Cranberry Juice",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "soft_drink",
+  "price": 12
+ },
+ {
+  "name": "E. Apple Juice",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "extra",
+  "price": 8
+ },
+ {
+  "name": "E. Coca-Cola",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "extra",
+  "price": 8
+ },
+ {
+  "name": "E. Coca-Cola Diet",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "extra",
+  "price": 8
+ },
+ {
+  "name": "E. Coca-Cola Zero",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "extra",
+  "price": 8
+ },
+ {
+  "name": "E. Cranberry Juice",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "extra",
+  "price": 8
+ },
+ {
+  "name": "E. Ginger Ale",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "extra",
+  "price": 8
+ },
+ {
+  "name": "E. Pineapple Juice",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "extra",
+  "price": 8
+ },
+ {
+  "name": "E. Soda",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "extra",
+  "price": 8
+ },
+ {
+  "name": "E. Sour",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "extra",
+  "price": 8
+ },
+ {
+  "name": "E. Sprite",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "extra",
+  "price": 9
+ },
+ {
+  "name": "E. Sprite Zero",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "extra",
+  "price": 10
+ },
+ {
+  "name": "E. Tonic",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "extra",
+  "price": 8
+ },
+ {
+  "name": "Ferrarelle",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "soft_drink",
+  "price": 28
+ },
+ {
+  "name": "Ginger Ale",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "soft_drink",
+  "price": 12
+ },
+ {
+  "name": "Pineapple Juice",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "soft_drink",
+  "price": 13
+ },
+ {
+  "name": "Soda",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "soft_drink",
+  "price": 9
+ },
+ {
+  "name": "Sprite",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "soft_drink",
+  "price": 10
+ },
+ {
+  "name": "Sprite Zero",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "soft_drink",
+  "price": 14
+ },
+ {
+  "name": "Staff Soda",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "soft_drink",
+  "price": 0
+ },
+ {
+  "name": "Tonic",
+  "type": "beverage",
+  "subtype1": "soft_drink",
+  "subtype2": "soft_drink",
+  "subtype3": "soft_drink",
+  "price": 14
+ },
+ {
+  "name": "Aperol Spritz",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "sparkling_wine",
+  "subtype3": "classic",
+  "price": 35
+ },
+ {
+  "name": "Kir Royal",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "sparkling_wine",
+  "subtype3": "classic",
+  "price": 32
+ },
+ {
+  "name": "Mimosa",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "sparkling_wine",
+  "subtype3": "classic",
+  "price": 32
+ },
+ {
+  "name": "Cava",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "sparkling_wine",
+  "subtype3": "bottle",
+  "price": 109
+ },
+ {
+  "name": "Laurent Perrier",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "sparkling_wine",
+  "subtype3": "bottle",
+  "price": 432
+ },
+ {
+  "name": "Prosecco Magnum",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "sparkling_wine",
+  "subtype3": "bottle",
+  "price": 250
+ },
+ {
+  "name": "Prosecco Minuto",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "sparkling_wine",
+  "subtype3": "bottle",
+  "price": 94
+ },
+ {
+  "name": "G. Cava",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "sparkling_wine",
+  "subtype3": "glass",
+  "price": 23
+ },
+ {
+  "name": "G. Prosecco Minuto",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "sparkling_wine",
+  "subtype3": "glass",
+  "price": 28
+ },
+ {
+  "name": "Hot Sider",
+  "type": "beverage",
+  "subtype1": "hot_drink",
+  "subtype2": "tea",
+  "subtype3": "tea",
+  "price": 18
+ },
+ {
+  "name": "Hot Water With Mint",
+  "type": "beverage",
+  "subtype1": "hot_drink",
+  "subtype2": "tea",
+  "subtype3": "tea",
+  "price": 10
+ },
+ {
+  "name": "Tea",
+  "type": "beverage",
+  "subtype1": "hot_drink",
+  "subtype2": "tea",
+  "subtype3": "tea",
+  "price": 9
+ },
+ {
+  "name": "Classic Margarita",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "tequila",
+  "subtype3": "classic",
+  "price": 45
+ },
+ {
+  "name": "Rosita Negroni",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "tequila",
+  "subtype3": "classic",
+  "price": 52
+ },
+ {
+  "name": "Smoky Tommy's",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "tequila",
+  "subtype3": "classic",
+  "price": 54
+ },
+ {
+  "name": "El Camello Loco",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "tequila",
+  "subtype3": "mixology",
+  "price": 47
+ },
+ {
+  "name": "Olive Oil Margarita",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "tequila",
+  "subtype3": "mixology",
+  "price": 50
+ },
+ {
+  "name": "Onza'S Purple Margarita",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "tequila",
+  "subtype3": "mixology",
+  "price": 47
+ },
+ {
+  "name": "Sumac Chef Spacial",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "tequila",
+  "subtype3": "mixology",
+  "price": 44
+ },
+ {
+  "name": "Ya Roka Roka",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "tequila",
+  "subtype3": "mixology",
+  "price": 49
+ },
+ {
+  "name": "Bacardi 8",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "chaser",
+  "price": 27
+ },
+ {
+  "name": "Ch. El Jimador Reposado",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "chaser",
+  "price": 22
+ },
+ {
+  "name": "Ch. Herradura Anejo",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "chaser",
+  "price": 12
+ },
+ {
+  "name": "Ch. Mezcal",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "chaser",
+  "price": 28
+ },
+ {
+  "name": "Ch. Patron Anejo",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "chaser",
+  "price": 31
+ },
+ {
+  "name": "Ch. Patron Silver",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "chaser",
+  "price": 23
+ },
+ {
+  "name": "Ch. Sauza Gold",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "chaser",
+  "price": 18
+ },
+ {
+  "name": "El Jimador Reposado",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "glass",
+  "price": 29
+ },
+ {
+  "name": "Herradura Anejo",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "glass",
+  "price": 50
+ },
+ {
+  "name": "Mezcal",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "glass",
+  "price": 56
+ },
+ {
+  "name": "Patron Anejo",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "glass",
+  "price": 65
+ },
+ {
+  "name": "Patron Silver",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "glass",
+  "price": 42
+ },
+ {
+  "name": "Patron Silver Bottle",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "bottle",
+  "price": 550
+ },
+ {
+  "name": "Patron Silver Upgrade",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "upgrade",
+  "price": 8
+ },
+ {
+  "name": "Sauza Gold",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "tequila",
+  "subtype3": "glass",
+  "price": 26
+ },
+ {
+  "name": "A Warm Lobia Stew",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "vegan",
+  "subtype3": "warm",
+  "price": 28
+ },
+ {
+  "name": "Bread",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "vegan",
+  "subtype3": "warm",
+  "price": 23
+ },
+ {
+  "name": "Faba Lima",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "vegan",
+  "subtype3": "warm",
+  "price": 27
+ },
+ {
+  "name": "Gluten-Free Bread",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "vegan",
+  "subtype3": "warm",
+  "price": 18
+ },
+ {
+  "name": "Laffa",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "vegan",
+  "subtype3": "warm",
+  "price": 13
+ },
+ {
+  "name": "Spicy Plate",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "vegan",
+  "subtype3": "cold",
+  "price": 14
+ },
+ {
+  "name": "Tomato Salad",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "vegan",
+  "subtype3": "cold",
+  "price": 27
+ },
+ {
+  "name": "Zucchini Salad",
+  "type": "food",
+  "subtype1": "appetizers",
+  "subtype2": "vegan",
+  "subtype3": "cold",
+  "price": 28
+ },
+ {
+  "name": "Lokmas",
+  "type": "food",
+  "subtype1": "dessert",
+  "subtype2": "vegan",
+  "subtype3": "warm",
+  "price": 58
+ },
+ {
+  "name": "Vegan Malbi",
+  "type": "food",
+  "subtype1": "dessert",
+  "subtype2": "vegan",
+  "subtype3": "warm",
+  "price": 34
+ },
+ {
+  "name": "Vegan Msabacha",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "vegan",
+  "subtype3": "warm",
+  "price": 54
+ },
+ {
+  "name": "Vegan Shawarma",
+  "type": "food",
+  "subtype1": "main",
+  "subtype2": "vegan",
+  "subtype3": "warm",
+  "price": 64
+ },
+ {
+  "name": "Cauliflower Salad",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "vegan",
+  "subtype3": "cold",
+  "price": 48
+ },
+ {
+  "name": "Eggplant Mafrum",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "vegan",
+  "subtype3": "cold",
+  "price": 56
+ },
+ {
+  "name": "Fries",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "vegan",
+  "subtype3": "warm",
+  "price": 21
+ },
+ {
+  "name": "Leaf And Zucchini Salad",
+  "type": "food",
+  "subtype1": "starters",
+  "subtype2": "vegan",
+  "subtype3": "cold",
+  "price": 48
+ },
+ {
+  "name": "Ch. Martini Bianco",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "vermouth",
+  "subtype3": "chaser",
+  "price": 16
+ },
+ {
+  "name": "Ch. Martini Bitter",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "vermouth",
+  "subtype3": "chaser",
+  "price": 17
+ },
+ {
+  "name": "Ch. Martini Extra Dry",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "vermouth",
+  "subtype3": "chaser",
+  "price": 16
+ },
+ {
+  "name": "Ch. Martini Rosso",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "vermouth",
+  "subtype3": "chaser",
+  "price": 10
+ },
+ {
+  "name": "Martini Bianco",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "vermouth",
+  "subtype3": "glass",
+  "price": 30
+ },
+ {
+  "name": "Martini Bitter",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "vermouth",
+  "subtype3": "glass",
+  "price": 32
+ },
+ {
+  "name": "Martini Extra Dry",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "vermouth",
+  "subtype3": "glass",
+  "price": 26
+ },
+ {
+  "name": "Martini Rosso",
+  "type": "beverage",
+  "subtype1": "liquer",
+  "subtype2": "vermouth",
+  "subtype3": "glass",
+  "price": 30
+ },
+ {
+  "name": "Virgin Sangeria",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "virgin",
+  "subtype3": "mixology",
+  "price": 12
+ },
+ {
+  "name": "Virgin Cocktail",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "virgin",
+  "subtype3": "mixology",
+  "price": 34
+ },
+ {
+  "name": "Cosmopolitan",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "vodka",
+  "subtype3": "classic",
+  "price": 41
+ },
+ {
+  "name": "Mosco Mule",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "vodka",
+  "subtype3": "classic",
+  "price": 44
+ },
+ {
+  "name": "Anatalia Mule",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "vodka",
+  "subtype3": "mixology",
+  "price": 44
+ },
+ {
+  "name": "Barby Cocktail",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "vodka",
+  "subtype3": "mixology",
+  "price": 48
+ },
+ {
+  "name": "Birthday Flask",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "vodka",
+  "subtype3": "mixology",
+  "price": 15
+ },
+ {
+  "name": "Bubblegum",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "vodka",
+  "subtype3": "mixology",
+  "price": 52
+ },
+ {
+  "name": "Jaffa Bay Breeze",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "vodka",
+  "subtype3": "mixology",
+  "price": 46
+ },
+ {
+  "name": "Mystic",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "vodka",
+  "subtype3": "mixology",
+  "price": 50
+ },
+ {
+  "name": "Summer Brand",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "vodka",
+  "subtype3": "mixology",
+  "price": 43
+ },
+ {
+  "name": "Ch. Finlandia",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "vodka",
+  "subtype3": "chaser",
+  "price": 10
+ },
+ {
+  "name": "Ch. Grey Goose",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "vodka",
+  "subtype3": "chaser",
+  "price": 21
+ },
+ {
+  "name": "Ch. Ketel 1",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "vodka",
+  "subtype3": "chaser",
+  "price": 20
+ },
+ {
+  "name": "Ch. Tito's",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "vodka",
+  "subtype3": "chaser",
+  "price": 19
+ },
+ {
+  "name": "Finlandia",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "vodka",
+  "subtype3": "glass",
+  "price": 22
+ },
+ {
+  "name": "Grey Goose",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "vodka",
+  "subtype3": "glass",
+  "price": 32
+ },
+ {
+  "name": "Grey Goose Bottle",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "vodka",
+  "subtype3": "bottle",
+  "price": 600
+ },
+ {
+  "name": "Ketel 1",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "vodka",
+  "subtype3": "glass",
+  "price": 28
+ },
+ {
+  "name": "Ketel 1 Bottle",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "vodka",
+  "subtype3": "bottle",
+  "price": 415
+ },
+ {
+  "name": "Tito's",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "vodka",
+  "subtype3": "glass",
+  "price": 32
+ },
+ {
+  "name": "Chamomile Sour",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "whiskey",
+  "subtype3": "mixology",
+  "price": 50
+ },
+ {
+  "name": "Smokey Mint",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "whiskey",
+  "subtype3": "mixology",
+  "price": 49
+ },
+ {
+  "name": "Old Fashioned",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "whiskey",
+  "subtype3": "classic",
+  "price": 41
+ },
+ {
+  "name": "Penicillin",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "whiskey",
+  "subtype3": "classic",
+  "price": 42
+ },
+ {
+  "name": "Whiskey Smash",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "whiskey",
+  "subtype3": "classic",
+  "price": 46
+ },
+ {
+  "name": "Jb",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 44
+ },
+ {
+  "name": "Ch. Balvenie 12",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "chaser",
+  "price": 38
+ },
+ {
+  "name": "Ch. Glenfiddich 12",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "chaser",
+  "price": 27
+ },
+ {
+  "name": "Ch. Glenfiddich 15",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "chaser",
+  "price": 34
+ },
+ {
+  "name": "Ch. Macallan 18",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "chaser",
+  "price": 45
+ },
+ {
+  "name": "Glenfiddich 12",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 51
+ },
+ {
+  "name": "Glenfiddich 15",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 66
+ },
+ {
+  "name": "Macallan 12",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 64
+ },
+ {
+  "name": "Macallan 18",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 178
+ },
+ {
+  "name": "Balvenie 12",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 74
+ },
+ {
+  "name": "Black Bush",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 36
+ },
+ {
+  "name": "Black Grouse",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 41
+ },
+ {
+  "name": "Ch. Black Bush",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "chaser",
+  "price": 23
+ },
+ {
+  "name": "Ch. Dewars 12",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "chaser",
+  "price": 19
+ },
+ {
+  "name": "Ch. Jameson",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "chaser",
+  "price": 11
+ },
+ {
+  "name": "Ch. Jb",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "chaser",
+  "price": 22
+ },
+ {
+  "name": "Ch. Johny Walker Black Label",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "chaser",
+  "price": 19
+ },
+ {
+  "name": "Ch. Macallan 12",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "chaser",
+  "price": 38
+ },
+ {
+  "name": "Dewars",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 18
+ },
+ {
+  "name": "Dewars 12",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 23
+ },
+ {
+  "name": "Famous Grouse",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 22
+ },
+ {
+  "name": "Jameson",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 30
+ },
+ {
+  "name": "Jameson Bottle",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "bottle",
+  "price": 445
+ },
+ {
+  "name": "Johny Walker Black Label",
+  "type": "beverage",
+  "subtype1": "spirit",
+  "subtype2": "whiskey",
+  "subtype3": "glass",
+  "price": 44
+ },
+ {
+  "name": "Albarino Marieta",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 126
+ },
+ {
+  "name": "Atlantis Argyros",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 176
+ },
+ {
+  "name": "Blanc De Blanc Yarden",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 230
+ },
+ {
+  "name": "Chablis Albert Bichot",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 196
+ },
+ {
+  "name": "Chablis Premier Cru",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 258
+ },
+ {
+  "name": "Chardonnay Castel",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 271
+ },
+ {
+  "name": "Chardonnay Odem",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 186
+ },
+ {
+  "name": "Chardonnay Recanati",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 144
+ },
+ {
+  "name": "Chenin Blanc Boschendal",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 119
+ },
+ {
+  "name": "Gwerzterminer Adama Tabor",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 138
+ },
+ {
+  "name": "Gwerzterminer Mastri",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 126
+ },
+ {
+  "name": "Gwerzterminer Yarden",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 164
+ },
+ {
+  "name": "Kazamata",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 143
+ },
+ {
+  "name": "Lugana Zenato",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 100
+ },
+ {
+  "name": "Masa Israeli Vitkin",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 178
+ },
+ {
+  "name": "Muscat Yarden",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 92
+ },
+ {
+  "name": "Riesling Trimbach",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 197
+ },
+ {
+  "name": "Roussanne Adama Tabor",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 138
+ },
+ {
+  "name": "Sauvignon Blanc Matua",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 176
+ },
+ {
+  "name": "Sauvignon Blanc Med House",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 156
+ },
+ {
+  "name": "Sauvignon Blanc Net",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 190
+ },
+ {
+  "name": "Sauvignon Blanc Sterling",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 210
+ },
+ {
+  "name": "Verdejo Viura Venus Sanz",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 74
+ },
+ {
+  "name": "Villa Brooklyn",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 141
+ },
+ {
+  "name": "White Frank",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 162
+ },
+ {
+  "name": "White Grenache",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 250
+ },
+ {
+  "name": "White Jasmine Recanati",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 100
+ },
+ {
+  "name": "White Tulip",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "bottle",
+  "price": 155
+ },
+ {
+  "name": "G. Atlantis Argyros",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 44
+ },
+ {
+  "name": "G. Bertani Le Quaiare Lugana",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 34
+ },
+ {
+  "name": "G. Chablis Albert Bichot",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 49
+ },
+ {
+  "name": "G. Chablis Premier Cru",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 44
+ },
+ {
+  "name": "G. Chardonnay Odem",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 49
+ },
+ {
+  "name": "G. Chardonnay Recanati",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 47
+ },
+ {
+  "name": "G. Chenin Blanc Boschendal",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 25
+ },
+ {
+  "name": "G. Gwerzterminer Adama Tabor",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 56
+ },
+ {
+  "name": "G. Gwerzterminer Mastri",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 32
+ },
+ {
+  "name": "G. Gwerzterminer Yarden",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 42
+ },
+ {
+  "name": "G. Kazamata",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 19
+ },
+ {
+  "name": "G. Lugana Zenato",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 14
+ },
+ {
+  "name": "G. Masa Israeli Vitkin",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 46
+ },
+ {
+  "name": "G. Muscat Yarden",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 20
+ },
+ {
+  "name": "G. Rawsons Retreat Chardonnay",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 18
+ },
+ {
+  "name": "G. Roussanne Adama Tabor",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 54
+ },
+ {
+  "name": "G.  Sauvignon Blanc Matua",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 43
+ },
+ {
+  "name": "G. Sauvignon Blanc Med House",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 39
+ },
+ {
+  "name": "G. Sauvignon Blanc Net",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 48
+ },
+ {
+  "name": "G. Sauvignon Blanc Sterling",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 53
+ },
+ {
+  "name": "G. Villa Brooklyn",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 23
+ },
+ {
+  "name": "G. White Frank",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 42
+ },
+ {
+  "name": "G. White Jasmine Recanati",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 25
+ },
+ {
+  "name": "G. White Tulip",
+  "type": "beverage",
+  "subtype1": "wine",
+  "subtype2": "white",
+  "subtype3": "glass",
+  "price": 14
+ },
+ {
+  "name": "Sangeria",
+  "type": "beverage",
+  "subtype1": "cocktails",
+  "subtype2": "red",
+  "subtype3": "classic",
+  "price": 35
+ }
+]
