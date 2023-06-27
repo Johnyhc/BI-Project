@@ -1,0 +1,605 @@
+﻿name,type,subtype1,subtype2,subtype3,price
+Hanina Spritz,beverage,cocktails,arak,mixology,40
+Arak Elite,beverage,spirit,arak,glass,22
+Arak Elite Bottle,beverage,spirit,arak,glass,300
+Ch. Arak Elite,beverage,spirit,arak,chaser,10
+Bruschetta Pastorma,food,appetizers,beef,warm,28
+Cigar Pastroma 4P,food,appetizers,beef,warm,51
+Kids Burger,food,main,beef,children,52
+Arais,food,main,beef,warm,68
+Hamburger,food,main,beef,warm,46
+Hanger Steak,food,main,beef,warm,94
+Kebab,food,main,beef,warm,72
+Malfouf,food,main,beef,warm,69
+New York Steak,food,main,beef,warm,240
+Onza Burger,food,main,beef,warm,43
+Ox Tail Pide,food,main,beef,warm,75
+Pappardelle Tulum,food,main,beef,warm,68
+Pide Shawarma,food,main,beef,warm,71
+Round Steak,food,main,beef,warm,64
+Sirloin Steak,food,main,beef,warm,136
+T-Bone 650 Gr,food,main,beef,warm,312
+T-Bone 700 Gr,food,main,beef,warm,336
+T-Bone 750 Gr,food,main,beef,warm,360
+Valentines Meal,food,main,beef,warm,200
+Beef Tartar,food,starters,beef,cold,65
+Cigar Pastroma,food,starters,beef,warm,39
+Filo Snacks,food,starters,beef,warm,38
+Kadaif Rolls,food,starters,beef,warm,48
+Kubba Nia,food,starters,beef,cold,52
+Kubba Nia 3 Pieces,food,starters,beef,cold,36
+Kubba Nia 4 Pieces,food,starters,beef,cold,46
+Pastroma,food,starters,beef,cold,41
+Pastroma Akmak,food,starters,beef,warm,46
+Round Steak Tartar,food,starters,beef,cold,59
+Sweetbread,food,starters,beef,warm,52
+Tulum Pastroma,food,starters,beef,cold,38
+Interior Parts Pide,food,tabun,beef,warm,74
+Bluemoon,beverage,beer,beer,bottle,28
+Budweiser,beverage,beer,beer,bottle,26
+Corona,beverage,beer,beer,bottle,28
+Crabbies Ginger Beer,beverage,beer,beer,bottle,26
+Greek Deal,beverage,beer,beer,bottle,140
+Hoegaarden,beverage,beer,beer,bottle,28
+Ipa Brewdog Punk,beverage,beer,beer,bottle,34
+Malka Blond Ale,beverage,beer,beer,bottle,34
+Malka Pale Ale,beverage,beer,beer,bottle,34
+Mythos 2 Bottles,beverage,beer,beer,deal,45
+Mythos 3 Bottles,beverage,beer,beer,deal,65
+Mythos 4 Bottles,beverage,beer,beer,deal,68
+Mythos 6 Bottles,beverage,beer,beer,deal,100
+Mythos 8 Bottles,beverage,beer,beer,deal,130
+Mythos Bottle,beverage,beer,beer,bottle,24
+Mythos Draft,beverage,beer,beer,draft,25
+Mythos Draft Ta,beverage,beer,beer,draft,25
+Negev Oasis,beverage,beer,beer,bottle,35
+Shandy,beverage,beer,beer,bottle,32
+St Bernardus Triple,beverage,beer,beer,bottle,32
+St-Feuillien Grand Cru,beverage,beer,beer,bottle,34
+Stella Artois,beverage,beer,beer,bottle,27
+Tuborg,beverage,beer,beer,bottle,24
+Aperol,beverage,liquer,bitter,glass,24
+Campari,beverage,liquer,bitter,glass,22
+Campari Bottle,beverage,liquer,bitter,bottle,500
+Ch. Aperol,beverage,liquer,bitter,chaser,18
+Ch. Campari,beverage,liquer,bitter,chaser,10
+Ch. Gentleman Jack,beverage,spirit,whiskey,chaser,14
+Ch. Honey Jack Daniels,beverage,spirit,whiskey,chaser,24
+Ch. Jack Daniels,beverage,spirit,whiskey,chaser,16
+Ch. Woodford Reserve,beverage,spirit,whiskey,chaser,16
+Gentleman Jack,beverage,spirit,whiskey,glass,39
+Jack Daniels,beverage,spirit,whiskey,glass,31
+Jack Daniels 375 ml,beverage,spirit,whiskey,small_bottle,250
+Jack Daniels Honey,beverage,spirit,whiskey,glass,47
+Woodford Reserve,beverage,spirit,whiskey,glass,55
+Boukha Bokobsa,beverage,spirit,boukha,glass,36
+Ankra Hotel,beverage,cocktails,brandy,mixology,49
+Courvoisier In Love,beverage,cocktails,brandy,mixology,42
+Calvados,beverage,spirit,brandy,glass,56
+Ch. Boukha Bokobsa,beverage,spirit,brandy,chaser,19
+Ch. Calvados,beverage,spirit,brandy,chaser,56
+Ch. Courvoisier Vs,beverage,spirit,brandy,chaser,27
+Ch. Courvoisier Vsop,beverage,spirit,brandy,chaser,24
+Ch. Courvoisier Xo,beverage,spirit,brandy,chaser,65
+Ch. Hennessy Vs,beverage,spirit,brandy,chaser,20
+Ch. Hennessy Vsop,beverage,spirit,brandy,chaser,35
+Courvoisier Vs,beverage,spirit,brandy,glass,45
+Courvoisier Vsop,beverage,spirit,brandy,glass,62
+Courvoisier Xo,beverage,spirit,brandy,glass,148
+Hennessy Vs,beverage,spirit,brandy,glass,62
+Hennessy Vsop,beverage,spirit,brandy,glass,68
+Chicken Fillet In Chard,food,main,chicken,warm,52
+Doner Tabuk,food,main,chicken,warm,69
+Pide Arazi,food,tabun,chicken,warm,54
+Sfiha,food,tabun,chicken,warm,72
+Americano,beverage,hot_drink,coffee,coffee,11
+Big Finjan,beverage,hot_drink,coffee,coffee,30
+Black Coffee,beverage,hot_drink,coffee,coffee,7
+Cappuccino,beverage,hot_drink,coffee,coffee,7
+Cold Americano,beverage,hot_drink,coffee,coffee,12
+Cold Coffee,beverage,hot_drink,coffee,coffee,12
+Double Espresso,beverage,hot_drink,coffee,coffee,8
+Double Macchiato,beverage,hot_drink,coffee,coffee,12
+Espresso,beverage,hot_drink,coffee,coffee,10
+Macchiato,beverage,hot_drink,coffee,coffee,10
+Turkish Coffee,beverage,hot_drink,coffee,coffee,8
+Small Fingan,food,hot_drink,coffee,coffee,15
+Feta,food,appetizers,dairy,cold,25
+Hot Eggplant,food,appetizers,dairy,warm,27
+Muska,food,appetizers,dairy,warm,41
+Sue Boric,food,appetizers,dairy,warm,33
+Sujuk Pide,food,appetizers,dairy,warm,32
+Tziki,food,appetizers,dairy,cold,21
+Basbusa Die,food,dessert,dairy,warm,42
+Brownies,food,dessert,dairy,warm,38
+Cheese Cake,food,dessert,dairy,warm,42
+Coconut Malbi,food,dessert,dairy,warm,31
+Figs Gozlema,food,dessert,dairy,warm,40
+Gozlema,food,dessert,dairy,warm,42
+Knaffeh,food,dessert,dairy,warm,40
+Lemon Brulee,food,dessert,dairy,warm,38
+Mastika Brulee,food,dessert,dairy,warm,42
+Mille Feuille,food,dessert,dairy,warm,42
+Mini Malbi,food,dessert,dairy,warm,0
+Nemesis Cake,food,dessert,dairy,warm,32
+Panna Cotta,food,dessert,dairy,warm,37
+Praline Chocolate,food,dessert,dairy,warm,32
+Sutlach,food,dessert,dairy,warm,33
+Sweet Pide,food,dessert,dairy,warm,42
+Three Leches,food,dessert,dairy,warm,38
+Turkish Delight,food,dessert,dairy,warm,1
+Kids Pasta,food,main,dairy,children,36
+Kids Pizza,food,main,dairy,children,41
+Kids Polenta,food,main,dairy,children,25
+Chai Cufta,food,main,dairy,warm,42
+Irngi And Corn,food,main,dairy,warm,67
+Bee'S Breakfast,food,starters,dairy,cold,48
+Edna'S Salad,food,starters,dairy,cold,46
+Su Burek,food,starters,dairy,warm,30
+The Egg Of Onza,food,starters,dairy,cold,42
+Vegetarian Moussaka,food,starters,dairy,warm,42
+Feta & Spinach Manakish,food,tabun,dairy,warm,63
+Pide Roka,food,tabun,dairy,warm,54
+Amaro Montenegro,beverage,liquer,digestif,glass,41
+Benedictine,beverage,liquer,digestif,glass,48
+Ch. Amaro Montenegro,beverage,liquer,digestif,chaser,22
+Ch. Benedictine,beverage,liquer,digestif,chaser,21
+Ch. Chartreuse Green,beverage,liquer,digestif,chaser,20
+Ch. Fernet Branca,beverage,liquer,digestif,chaser,14
+Ch. Limoncello,beverage,liquer,digestif,chaser,19
+Chartreuse Green,beverage,liquer,digestif,glass,50
+Fernet Branca,beverage,liquer,digestif,glass,33
+Grappa,beverage,liquer,digestif,glass,32
+Limoncello,beverage,liquer,digestif,glass,30
+Drumfish Fillet,food,main,fish,warm,116
+Seabass Herbs,food,main,fish,warm,106
+Seabass Sambusak,food,main,fish,warm,112
+E. Grapefruit Juice,beverage,soft_drink,fresh,extra,8
+E. Lemonade,beverage,soft_drink,fresh,extra,8
+E. Orange Juice,beverage,soft_drink,fresh,extra,8
+Grapefruit Juice,beverage,soft_drink,fresh,soft_drink,14
+Lemonade,beverage,soft_drink,fresh,soft_drink,13
+Orange Juice,beverage,soft_drink,fresh,soft_drink,12
+Bottle Opening Fee - Spitirs,beverage,general_item,general_item,general_item,100
+Bottle Opening Fee - Wine,beverage,general_item,general_item,general_item,45
+Oth Chaser,beverage,general_item,general_item,oth_chaser,0
+Boulevardier,beverage,cocktails,gin,classic,50
+Dry Martini,beverage,cocktails,gin,classic,47
+Gin Mule,beverage,cocktails,gin,classic,48
+The Last Word,beverage,cocktails,gin,classic,46
+Blueberry Spritz,beverage,cocktails,gin,mixology,42
+Brumble Club,beverage,cocktails,gin,mixology,44
+Calf Spritz,beverage,cocktails,gin,mixology,38
+Cinnamon Spritz,beverage,cocktails,gin,mixology,48
+Cocktail Special,beverage,cocktails,gin,mixology,54
+Gin And Tonic From The Market,beverage,cocktails,gin,mixology,45
+Gonder Spritz,beverage,cocktails,gin,mixology,27
+Honey Gin Tea,beverage,cocktails,gin,mixology,46
+Marmaris,beverage,cocktails,gin,mixology,46
+Mulbary Spritz,beverage,cocktails,gin,mixology,42
+Negroni Sabagliato,beverage,cocktails,gin,mixology,42
+Onza Special,beverage,cocktails,gin,mixology,35
+Raspberry Spritz,beverage,cocktails,gin,mixology,38
+St Peter Fiz,beverage,cocktails,gin,mixology,48
+Sultana,beverage,cocktails,gin,mixology,47
+Summer Vibes,beverage,cocktails,gin,mixology,46
+Summer Vibes (Bombay),beverage,cocktails,gin,mixology,48
+Tonic Martini,beverage,cocktails,gin,mixology,38
+Tropical Gin,beverage,cocktails,gin,mixology,48
+Bombay Bramble,beverage,spirit,gin,glass,48
+Bombay Sapphire,beverage,spirit,gin,glass,42
+Bombay Sapphire Bottle,beverage,spirit,gin,bottle,347
+Ch. Bombay Bramble,beverage,spirit,gin,chaser,25
+Ch. Bombay Sapphire,beverage,spirit,gin,chaser,10
+Ch. Hendricks,beverage,spirit,gin,chaser,25
+Ch. Mare,beverage,spirit,gin,chaser,29
+Hendricks,beverage,spirit,gin,glass,32
+Hendrics Gin Bottle,beverage,spirit,gin,bottle,500
+Mare,beverage,spirit,gin,glass,34
+Monkey 47,beverage,spirit,gin,glass,68
+Doner Shawarma,food,main,lamb,warm,72
+Lamb Chops,food,main,lamb,warm,138
+Lamb Kabab,food,main,lamb,warm,72
+Lamb Neck,food,main,lamb,warm,92
+Lamb Risotto,food,main,lamb,warm,72
+Lamb Artichoke,food,starters,lamb,warm,50
+Lamb Brain,food,starters,lamb,warm,48
+Lamb Bacon And Shrimp Pide,food,tabun,lamb,warm,72
+Lamb Neck Pide,food,tabun,lamb,warm,74
+Lachma Ba'Ajeen,food,tabun,lamb,warm,72
+Amaretto Disaronno,beverage,liquer,liquer,glass,23
+Baileys,beverage,liquer,liquer,glass,27
+Ch. Amaretto Disaronno,beverage,liquer,liquer,chaser,17
+Ch. Baileys,beverage,liquer,liquer,chaser,17
+Ch. Cointreau,beverage,liquer,liquer,chaser,24
+Ch. Drambuie,beverage,liquer,liquer,chaser,24
+Ch. Figgie,beverage,liquer,liquer,chaser,10
+Ch. Midori,beverage,liquer,liquer,chaser,19
+Ch. Southern Comfort,beverage,liquer,liquer,chaser,17
+Ch. St Germain,beverage,liquer,liquer,chaser,20
+Cointreau,beverage,liquer,liquer,glass,46
+Drambuie,beverage,liquer,liquer,glass,46
+Figgie,beverage,liquer,liquer,glass,29
+Grand Marnier,beverage,liquer,liquer,glass,48
+Midori,beverage,liquer,liquer,glass,29
+Southern Comfort,beverage,liquer,liquer,glass,32
+St Germain,beverage,liquer,liquer,glass,38
+Ata-Turk,beverage,cocktails,ouzo,mixology,48
+Balkanika,beverage,cocktails,ouzo,mixology,50
+Baraka Garden,beverage,cocktails,ouzo,mixology,51
+Small Turkish,beverage,cocktails,ouzo,mixology,41
+Ch. Barbayanni Green,beverage,spirit,ouzo,chaser,20
+Ch. Ouzo Barbayanni Blue,beverage,spirit,ouzo,chaser,20
+Ch. Ouzo Plumari,beverage,spirit,ouzo,chaser,19
+Ch. Ouzo Tsantali,beverage,spirit,ouzo,chaser,10
+Ouzo Barbayanni Blue,beverage,spirit,ouzo,glass,39
+Ouzo Barbayanni Green,beverage,spirit,ouzo,glass,39
+Ouzo Plumari,beverage,spirit,ouzo,glass,31
+Ouzo Tsantali,beverage,spirit,ouzo,glass,30
+Ouzo Tsantali 200 ml,beverage,spirit,ouzo,small_bottle,81
+Ouzo Tsantali 200 ml,beverage,spirit,ouzo,small_bottle,100
+Ouzo Tsantali Bottle,beverage,spirit,ouzo,bottle,160
+Plumari Bottle,beverage,spirit,ouzo,bottle,380
+Ch. Pernod,beverage,spirit,pernod,chaser,20
+Pernod,beverage,spirit,pernod,glass,34
+pesach_eve,placeholders,placeholders,placeholders,placeholders,0
+holocost_day,placeholders,placeholders,placeholders,placeholders,0
+memory_day,placeholders,placeholders,placeholders,placeholders,0
+yom_cipur,placeholders,placeholders,placeholders,placeholders,0
+rosh_hashana_eve,placeholders,placeholders,placeholders,placeholders,0
+0,placeholders,placeholders,placeholders,placeholders,0
+Ch. Yini Raki,beverage,spirit,raki,chaser,19
+Raki Bottle,beverage,spirit,raki,bottle,0
+Yini Raki,beverage,spirit,raki,glass,37
+Yini Raki 350 ml,beverage,spirit,raki,small_bottle,180
+Yini Raki Bottle,beverage,spirit,raki,bottle,380
+2T Yarden,beverage,wine,red,bottle,193
+Amaro Negro,beverage,wine,red,bottle,134
+Barbaresco Prunotto,beverage,wine,red,bottle,296
+Barbera D'Asti,beverage,wine,red,bottle,166
+Black Tie,beverage,wine,red,bottle,188
+Black Tulip,beverage,wine,red,bottle,300
+Cabarnet Frank Vitkin,beverage,wine,red,bottle,209
+Cabarnet Sauvignon Adama Tabor,beverage,wine,red,bottle,138
+Cabarnet Sauvignon Colombia,beverage,wine,red,bottle,146
+Cabarnet Sauvignon Flam,beverage,wine,red,bottle,290
+Carignan Izrael,beverage,wine,red,bottle,180
+Carignan Vitkin,beverage,wine,red,bottle,205
+Cotes Du Rhone Brusset,beverage,wine,red,bottle,151
+Galil Yiron 2013,beverage,wine,red,bottle,270
+Malbec Yarden,beverage,wine,red,bottle,250
+Nustrom Maia,beverage,wine,red,bottle,240
+Petite Sirah Vitkin,beverage,wine,red,bottle,250
+Pinot Noir Cavit,beverage,wine,red,bottle,117
+Pinot Noir Vitkin,beverage,wine,red,bottle,230
+Pinot Noir Yarden,beverage,wine,red,bottle,190
+Pizarras De Otreo,beverage,wine,red,bottle,124
+Port Wine Bottle,beverage,wine,red,bottle,150
+Primitivo Il Pumo,beverage,wine,red,bottle,120
+Primitivo Salento,beverage,wine,red,bottle,120
+Red Jasmine Recanati,beverage,wine,red,bottle,100
+Rioja Crianza,beverage,wine,red,bottle,165
+Rioja Grand Reserve,beverage,wine,red,bottle,195
+Rioja Reserve,beverage,wine,red,bottle,152
+Shiraz Cabarnet Rawson‚ÄôS Retreat,beverage,wine,red,bottle,144
+Shiraz Yarden,beverage,wine,red,bottle,200
+Soltenina Vartman,beverage,wine,red,bottle,236
+V Reserva,beverage,wine,red,bottle,180
+Zenato Valpolicella Ripassa,beverage,wine,red,bottle,132
+Zweigelt,beverage,wine,red,bottle,90
+G. Amaro Negro,beverage,wine,red,glass,33
+G. Black Tie,beverage,wine,red,glass,43
+G. Cabarnet Frank,beverage,wine,red,glass,54
+G. Cabarnet Frank Vitkin,beverage,wine,red,glass,52
+G. Cabarnet Sauvignon Adama Tabor,beverage,wine,red,glass,59
+G. Cabarnet Sauvignon Colombia,beverage,wine,red,glass,38
+G. Carignan Izrael,beverage,wine,red,glass,46
+G. Carignan Vitkin,beverage,wine,red,glass,52
+G. Cotes Du Rhone Brusset,beverage,wine,red,glass,39
+G. Pinot Grigio,beverage,wine,red,glass,44
+G. Pizarras De Otreo,beverage,wine,red,glass,32
+G. Port,beverage,wine,red,glass,30
+G. Primitivo Il Pumo,beverage,wine,red,glass,32
+G. Primitivo Salento,beverage,wine,red,glass,25
+G. Red Jasmine Recanati,beverage,wine,red,glass,25
+G. Rioja Crianza,beverage,wine,red,glass,39
+G. Rioja Grand Reserve,beverage,wine,red,glass,48
+G. Rioja Reserve,beverage,wine,red,glass,48
+G. Shiraz Cabarnet Rawson‚ÄôS Retreat,beverage,wine,red,glass,38
+G. Shiraz Yarden,beverage,wine,red,glass,52
+G. Zenato Valpolicella Ripassa,beverage,wine,red,glass,31
+G. Zweigelt,beverage,wine,red,glass,28
+G. Shiraz Cabarnet Rawson's Retreat,beverage,wine,red,glass,156
+Shiraz Cabarnet Rawson’s Retreat,beverage,wine,red,bottle,42
+Gris De Marselan Recanati,beverage,wine,rose,bottle,179
+Minuty M,beverage,wine,rose,bottle,190
+Rose Adama Tabor,beverage,wine,rose,bottle,138
+G. Gris De Marselan Recanati,beverage,wine,rose,glass,31
+Rose Rioja,beverage,wine,rose,bottle,126
+G. Rose Adama Tabor,beverage,wine,rose,glass,36
+G. Rose Rioja,beverage,wine,rose,glass,34
+Cuba Libre,beverage,cocktails,rum,classic,46
+Daquiri,beverage,cocktails,rum,classic,44
+Made In Cuba,beverage,cocktails,rum,classic,46
+Mojito,beverage,cocktails,rum,classic,43
+Negroni,beverage,cocktails,rum,classic,46
+Old Cuban,beverage,cocktails,rum,classic,46
+Pina Colada,beverage,cocktails,rum,classic,46
+Barbados Negroni,beverage,cocktails,rum,mixology,52
+Green Daquiri,beverage,cocktails,rum,mixology,48
+Huriccane,beverage,cocktails,rum,mixology,48
+Jumpy Melon,beverage,cocktails,rum,mixology,42
+Like A Tiki,beverage,cocktails,rum,mixology,46
+Mai Thyme,beverage,cocktails,rum,mixology,72
+Bacardi Black,beverage,spirit,rum,glass,23
+Bacardi Spiced,beverage,spirit,rum,glass,38
+Black Seal,beverage,spirit,rum,glass,38
+Ch. Bacardi 8,beverage,spirit,rum,chaser,24
+Ch. Bacardi Black,beverage,spirit,rum,chaser,19
+Ch. Bacardi Spiced,beverage,spirit,rum,chaser,21
+Ch. Black Seal,beverage,spirit,rum,chaser,19
+Ch. Plantation 3 Stars,beverage,spirit,rum,chaser,22
+Plantation 3 Stars,beverage,spirit,rum,glass,34
+Ikra,food,appetizers,sea,cold,26
+Palmida,food,appetizers,sea,cold,44
+Balik Cufta 4 Pcs,food,main,sea,warm,74
+Fillet Mullet,food,main,sea,warm,98
+Fish & Fries,food,main,sea,warm,66
+Fish Shawarma,food,main,sea,warm,65
+Seafood Hanina,food,main,sea,warm,88
+Seafood Pan From The Tabon,food,main,sea,warm,60
+Whole Seabass,food,main,sea,warm,124
+Sea Food Risotto,food,main,sea,warm,82
+Balik Cufta,food,starters,sea,warm,56
+Barbonia,food,starters,sea,warm,66
+Coquille Saint-Jacques,food,starters,sea,cold,75
+Fish Tartar,food,starters,sea,cold,66
+Fricassee Drumfish,food,starters,sea,warm,38
+Intias Sashimi,food,starters,sea,cold,68
+Mussels In Ouzo,food,starters,sea,warm,68
+Octopus,food,starters,sea,warm,68
+Sashimi,food,starters,sea,cold,57
+Seared Calamari,food,starters,sea,warm,45
+Shrimp Kataif,food,starters,sea,warm,58
+Tabula Tartar,food,starters,sea,cold,58
+Apple Juice,beverage,soft_drink,soft_drink,soft_drink,14
+Coca-Cola,beverage,soft_drink,soft_drink,soft_drink,12
+Coca-Cola Diet,beverage,soft_drink,soft_drink,soft_drink,14
+Coca-Cola Zero,beverage,soft_drink,soft_drink,soft_drink,13
+Cranberry Juice,beverage,soft_drink,soft_drink,soft_drink,12
+E. Apple Juice,beverage,soft_drink,soft_drink,extra,8
+E. Coca-Cola,beverage,soft_drink,soft_drink,extra,8
+E. Coca-Cola Diet,beverage,soft_drink,soft_drink,extra,8
+E. Coca-Cola Zero,beverage,soft_drink,soft_drink,extra,8
+E. Cranberry Juice,beverage,soft_drink,soft_drink,extra,8
+E. Ginger Ale,beverage,soft_drink,soft_drink,extra,8
+E. Pineapple Juice,beverage,soft_drink,soft_drink,extra,8
+E. Soda,beverage,soft_drink,soft_drink,extra,8
+E. Sour,beverage,soft_drink,soft_drink,extra,8
+E. Sprite,beverage,soft_drink,soft_drink,extra,9
+E. Sprite Zero,beverage,soft_drink,soft_drink,extra,10
+E. Tonic,beverage,soft_drink,soft_drink,extra,8
+Ferrarelle,beverage,soft_drink,soft_drink,soft_drink,28
+Ginger Ale,beverage,soft_drink,soft_drink,soft_drink,12
+Neviot 500 ml,beverage,soft_drink,soft_drink,soft_drink,13
+Neviot 500 ml,beverage,soft_drink,soft_drink,soft_drink,24
+Neviot 750 ml,beverage,soft_drink,soft_drink,soft_drink,21
+Pineapple Juice,beverage,soft_drink,soft_drink,soft_drink,13
+Soda,beverage,soft_drink,soft_drink,soft_drink,9
+Sprite,beverage,soft_drink,soft_drink,soft_drink,10
+Sprite Zero,beverage,soft_drink,soft_drink,soft_drink,14
+Staff Soda,beverage,soft_drink,soft_drink,soft_drink,0
+Tonic,beverage,soft_drink,soft_drink,soft_drink,14
+Aperol Spritz,beverage,cocktails,sparkling_wine,classic,35
+Kir Royal,beverage,cocktails,sparkling_wine,classic,32
+Mimosa,beverage,cocktails,sparkling_wine,classic,32
+Cava Martini,beverage,cocktails,sparkling_wine,mixology,38
+Brut Majeur Champagne,beverage,wine,sparkling_wine,bottle,432
+Cava,beverage,wine,sparkling_wine,bottle,109
+Laurent Perrier,beverage,wine,sparkling_wine,bottle,432
+Prosecco Magnum,beverage,wine,sparkling_wine,bottle,250
+Prosecco Minuto,beverage,wine,sparkling_wine,bottle,94
+G. Brut Majeur Champagne,beverage,wine,sparkling_wine,glass,52
+G. Cava,beverage,wine,sparkling_wine,glass,23
+G. Prosecco Minuto,beverage,wine,sparkling_wine,glass,28
+Hot Sider,beverage,hot_drink,tea,tea,18
+Hot Water With Mint,beverage,hot_drink,tea,tea,10
+Tea,beverage,hot_drink,tea,tea,9
+Turkish Tea,beverage,hot_drink,tea,tea,8
+Classic Margarita,beverage,cocktails,tequila,classic,45
+Giant Margarita,beverage,cocktails,tequila,classic,196
+Margarita (Patron Roca),beverage,cocktails,tequila,classic,56
+Margarita (Patron),beverage,cocktails,tequila,classic,52
+Rosita Negroni,beverage,cocktails,tequila,classic,52
+Smoky Tommy's,beverage,cocktails,tequila,classic,54
+Smoky Tommy's (Patron),beverage,cocktails,tequila,classic,56
+El Camello Loco,beverage,cocktails,tequila,mixology,47
+Olive Oil Margarita,beverage,cocktails,tequila,mixology,50
+Olive Oil Margarita (Patron),beverage,cocktails,tequila,mixology,54
+Onza'S Purple Margarita,beverage,cocktails,tequila,mixology,47
+Patronic,beverage,cocktails,tequila,mixology,40
+Sumac Chef Spacial,beverage,cocktails,tequila,mixology,44
+Ya Roka Roka,beverage,cocktails,tequila,mixology,49
+Bacardi 8,beverage,spirit,tequila,chaser,27
+Ch. El Jimador Reposado,beverage,spirit,tequila,chaser,22
+Ch. Herradura Anejo,beverage,spirit,tequila,chaser,12
+Ch. Mezcal,beverage,spirit,tequila,chaser,28
+Ch. Patron Anejo,beverage,spirit,tequila,chaser,31
+Ch. Patron Silver,beverage,spirit,tequila,chaser,23
+Ch. Sauza Gold,beverage,spirit,tequila,chaser,18
+El Jimador Reposado,beverage,spirit,tequila,glass,29
+Herradura Anejo,beverage,spirit,tequila,glass,50
+Mezcal,beverage,spirit,tequila,glass,56
+Patron Anejo,beverage,spirit,tequila,glass,65
+Patron Anejo Bottle,beverage,spirit,tequila,bottle,720
+Patron Silver,beverage,spirit,tequila,glass,42
+Patron Silver Bottle,beverage,spirit,tequila,bottle,550
+Patron Silver Upgrade,beverage,spirit,tequila,upgrade,8
+Sauza Gold,beverage,spirit,tequila,glass,26
+A Warm Lobia Stew,food,appetizers,vegan,warm,28
+Artichoke,food,appetizers,vegan,cold,28
+Bread,food,appetizers,vegan,warm,23
+Faba Lima,food,appetizers,vegan,warm,27
+Fresh Artichoke,food,appetizers,vegan,cold,22
+Gluten-Free Bread,food,appetizers,vegan,warm,18
+Green Almond,food,appetizers,vegan,cold,28
+Laffa,food,appetizers,vegan,warm,13
+Lentil Faba,food,appetizers,vegan,warm,28
+London Fried,food,appetizers,vegan,warm,32
+Matza,food,appetizers,vegan,cold,12
+Spicy Plate,food,appetizers,vegan,cold,14
+Tomato Salad,food,appetizers,vegan,cold,27
+Zucchini Salad,food,appetizers,vegan,cold,28
+Lokmas,food,dessert,vegan,warm,58
+Mofletta,food,dessert,vegan,warm,0
+Vegan Malbi,food,dessert,vegan,warm,34
+Baba Ghanoush,food,main,vegan,warm,68
+Vegan Msabacha,food,main,vegan,warm,54
+Vegan Shawarma,food,main,vegan,warm,64
+Cauliflower Salad,food,starters,vegan,cold,48
+Eggplant Mafrum,food,starters,vegan,cold,56
+Fries,food,starters,vegan,warm,21
+Leaf And Zucchini Salad,food,starters,vegan,cold,48
+Pumpkin Masabacha,food,starters,vegan,warm,38
+Staff Bread,food,starters,vegan,warm,16
+Vegan Filo Snacks,food,starters,vegan,warm,32
+Kentucky Fried Chirshi,food,starters,vegan,warm,35
+Appetizers Plate #1,food,appetizers,vegan,cold,86
+Appetizers Plate #2,food,appetizers,vegan,cold,120
+Ch. Martini Bianco,beverage,liquer,vermouth,chaser,16
+Ch. Martini Bitter,beverage,liquer,vermouth,chaser,17
+Ch. Martini Extra Dry,beverage,liquer,vermouth,chaser,16
+Ch. Martini Rosso,beverage,liquer,vermouth,chaser,10
+Martini Bianco,beverage,liquer,vermouth,glass,30
+Martini Bitter,beverage,liquer,vermouth,glass,32
+Martini Extra Dry,beverage,liquer,vermouth,glass,26
+Martini Rosso,beverage,liquer,vermouth,glass,30
+Virgin Sangeria,beverage,cocktails,virgin,mixology,12
+Virgin Cocktail,beverage,cocktails,virgin,mixology,34
+Cosmopolitan,beverage,cocktails,vodka,classic,41
+Mosco Mule,beverage,cocktails,vodka,classic,44
+Anatalia Mule,beverage,cocktails,vodka,mixology,44
+Barby Cocktail,beverage,cocktails,vodka,mixology,48
+Birthday Flask,beverage,cocktails,vodka,mixology,15
+Bubblegum,beverage,cocktails,vodka,mixology,52
+Jaffa Bay Breeze,beverage,cocktails,vodka,mixology,46
+Lake Pake,beverage,cocktails,vodka,mixology,48
+Mystic,beverage,cocktails,vodka,mixology,50
+Summer Brand,beverage,cocktails,vodka,mixology,43
+Ch. Finlandia,beverage,spirit,vodka,chaser,10
+Ch. Grey Goose,beverage,spirit,vodka,chaser,21
+Ch. Ketel 1,beverage,spirit,vodka,chaser,20
+Ch. Pinnacle,beverage,spirit,vodka,chaser,19
+Ch. Tito's,beverage,spirit,vodka,chaser,19
+Finlandia,beverage,spirit,vodka,glass,22
+Finlandia Bottle,beverage,spirit,vodka,bottle,380
+Grey Goose,beverage,spirit,vodka,glass,32
+Grey Goose Bottle,beverage,spirit,vodka,bottle,600
+Ketel 1,beverage,spirit,vodka,glass,28
+Ketel 1 Bottle,beverage,spirit,vodka,bottle,415
+Tito's,beverage,spirit,vodka,glass,32
+Chamomile Sour,beverage,cocktails,whiskey,mixology,50
+Smokey Mint,beverage,cocktails,whiskey,mixology,49
+Tomatilo,beverage,cocktails,whiskey,mixology,44
+Old Fashioned,beverage,cocktails,whiskey,classic,41
+Penicillin,beverage,cocktails,whiskey,classic,42
+Whiskey Smash,beverage,cocktails,whiskey,classic,46
+Jb,beverage,spirit,whiskey,glass,44
+Ch. Balvenie 12,beverage,spirit,whiskey,chaser,38
+Ch. Glenfiddich 12,beverage,spirit,whiskey,chaser,27
+Ch. Glenfiddich 15,beverage,spirit,whiskey,chaser,34
+Ch. Macallan 18,beverage,spirit,whiskey,chaser,45
+Glenfiddich 12,beverage,spirit,whiskey,glass,51
+Glenfiddich 15,beverage,spirit,whiskey,glass,66
+Macallan 12,beverage,spirit,whiskey,glass,64
+Macallan 15,beverage,spirit,whiskey,glass,108
+Macallan 18,beverage,spirit,whiskey,glass,178
+Balvenie 12,beverage,spirit,whiskey,glass,74
+Black Bush,beverage,spirit,whiskey,glass,36
+Black Grouse,beverage,spirit,whiskey,glass,41
+Ch. Black Bush,beverage,spirit,whiskey,chaser,23
+Ch. Black Grouse,beverage,spirit,whiskey,chaser,21
+Ch. Dewars 12,beverage,spirit,whiskey,chaser,19
+Ch. Glenmorangie 10,beverage,spirit,whiskey,chaser,35
+Ch. Highland Park 12,beverage,spirit,whiskey,chaser,38
+Ch. Jameson,beverage,spirit,whiskey,chaser,11
+Ch. Jb,beverage,spirit,whiskey,chaser,22
+Ch. Johny Walker Black Label,beverage,spirit,whiskey,chaser,19
+Ch. Laphroaig 10,beverage,spirit,whiskey,chaser,33
+Ch. Macallan 12,beverage,spirit,whiskey,chaser,38
+Ch. Macallan 15,beverage,spirit,whiskey,chaser,55
+Dewars,beverage,spirit,whiskey,glass,18
+Dewars 12,beverage,spirit,whiskey,glass,23
+Famous Grouse,beverage,spirit,whiskey,glass,22
+Glenmorangie,beverage,spirit,whiskey,glass,48
+Highland Park 12,beverage,spirit,whiskey,glass,74
+Jameson,beverage,spirit,whiskey,glass,30
+Jameson Bottle,beverage,spirit,whiskey,bottle,445
+Johny Walker Black Label,beverage,spirit,whiskey,glass,44
+Laphroaig 10,beverage,spirit,whiskey,glass,64
+Alastro Planeta,beverage,wine,white,bottle,160
+Albarino Marieta,beverage,wine,white,bottle,126
+Atlantis Argyros,beverage,wine,white,bottle,176
+Bertani Le Quaiare Lugana,beverage,wine,white,bottle,144
+Blanc De Blanc Yarden,beverage,wine,white,bottle,230
+Boutari Moschofilero,beverage,wine,white,bottle,162
+Chablis Albert Bichot,beverage,wine,white,bottle,196
+Chablis Premier Cru,beverage,wine,white,bottle,258
+Chardonnay Castel,beverage,wine,white,bottle,271
+Chardonnay Katzrin,beverage,wine,white,bottle,240
+Chardonnay Odem,beverage,wine,white,bottle,186
+Chardonnay Recanati,beverage,wine,white,bottle,144
+Chenin Blanc Boschendal,beverage,wine,white,bottle,119
+Gwerzterminer Adama Tabor,beverage,wine,white,bottle,138
+Gwerzterminer Mastri,beverage,wine,white,bottle,126
+Gwerzterminer Yarden,beverage,wine,white,bottle,164
+Herencia Altes,beverage,wine,white,bottle,180
+Kazamata,beverage,wine,white,bottle,143
+Lugana Zenato,beverage,wine,white,bottle,100
+Mandolas Oremus,beverage,wine,white,bottle,220
+Masa Israeli Vitkin,beverage,wine,white,bottle,178
+Muscat Yarden,beverage,wine,white,bottle,92
+Poggio Al Tesoro Solosole,beverage,wine,white,bottle,190
+Riesling Trimbach,beverage,wine,white,bottle,197
+Roussanne Adama Tabor,beverage,wine,white,bottle,138
+Sancerre Lacheteau,beverage,wine,white,bottle,210
+Sauvignon Blanc Matua,beverage,wine,white,bottle,176
+Sauvignon Blanc Med House,beverage,wine,white,bottle,156
+Sauvignon Blanc Net,beverage,wine,white,bottle,190
+Sauvignon Blanc Sterling,beverage,wine,white,bottle,210
+Verdejo Viura Venus Sanz,beverage,wine,white,bottle,74
+Villa Brooklyn,beverage,wine,white,bottle,141
+White Frank,beverage,wine,white,bottle,162
+White Grenache,beverage,wine,white,bottle,250
+White Jasmine Recanati,beverage,wine,white,bottle,100
+White Tulip,beverage,wine,white,bottle,155
+G. Alastro Planeta,beverage,wine,white,glass,42
+G. Atlantis Argyros,beverage,wine,white,glass,44
+G. Bertani Le Quaiare Lugana,beverage,wine,white,glass,34
+G. Chablis Albert Bichot,beverage,wine,white,glass,49
+G. Chablis Premier Cru,beverage,wine,white,glass,44
+G. Chardonnay Odem,beverage,wine,white,glass,49
+G. Chardonnay Recanati,beverage,wine,white,glass,47
+G. Chenin Blanc Boschendal,beverage,wine,white,glass,25
+G. Gwerzterminer Adama Tabor,beverage,wine,white,glass,56
+G. Gwerzterminer Mastri,beverage,wine,white,glass,32
+G. Gwerzterminer Yarden,beverage,wine,white,glass,42
+G. Herencia Altes,beverage,wine,white,glass,46
+G. Kazamata,beverage,wine,white,glass,19
+G. Lugana Zenato,beverage,wine,white,glass,14
+G. Masa Israeli Vitkin,beverage,wine,white,glass,46
+G. Muscat Yarden,beverage,wine,white,glass,20
+G. Poggio Al Tesoro Solosole,beverage,wine,white,glass,0
+G. Rawsons Retreat Chardonnay,beverage,wine,white,glass,18
+G. Roussanne Adama Tabor,beverage,wine,white,glass,54
+G. Sancerre Lacheteau,beverage,wine,white,glass,36
+G.  Sauvignon Blanc Matua,beverage,wine,white,glass,43
+G. Sauvignon Blanc Med House,beverage,wine,white,glass,39
+G. Sauvignon Blanc Net,beverage,wine,white,glass,48
+G. Sauvignon Blanc Sterling,beverage,wine,white,glass,53
+G. Villa Brooklyn,beverage,wine,white,glass,23
+G. White Frank,beverage,wine,white,glass,42
+G. White Grenache,beverage,wine,white,glass,46
+G. White Jasmine Recanati,beverage,wine,white,glass,25
+G. White Tulip,beverage,wine,white,glass,14
+Sangeria,beverage,cocktails,red,classic,35
