@@ -1,9 +1,9 @@
 import pandas as pd
 from sqlalchemy import create_engine, text
 
-tables = pd.read_json("./json_data/tables.json")
-sales = pd.read_json("./json_data/sales.json")
-items = pd.read_json("./json_data/items.json")
+tables = pd.read_json("./Codes/json_data/tables.json")
+sales = pd.read_json("./Codes/json_data/sales.json")
+items = pd.read_json("./Codes/json_data/items.json")
 
 engine = create_engine('sqlite://', echo=False)
 items.to_sql("items", con=engine)
